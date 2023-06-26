@@ -1,7 +1,4 @@
-
-
-
-
+#ceci est une class python
 class CompteBancaire:
     def __init__(self, numero_compte, solde=0):
         self.numero_compte = numero_compte
